@@ -1,0 +1,32 @@
+.list {
+  text-align: left;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.user_table {
+  text-align: left;
+  max-width: 1000px;
+  margin: auto;
+}
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.modalStyle {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 10px;
+}
